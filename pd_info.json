@@ -1,0 +1,32 @@
+[
+    {
+        "Name": "Bob",
+        "Age": 19,
+        "Qualification": "High School",
+        "Address": "California"
+    },
+    {
+        "Name": "Charles",
+        "Age": 25,
+        "Qualification": "Bachelors",
+        "Address": "New York"
+    },
+    {
+        "Name": "James",
+        "Age": 30,
+        "Qualification": "Masters",
+        "Address": "New Jersy"
+    },
+    {
+        "Name": "Bill",
+        "Age": 50,
+        "Qualification": "Bachelors",
+        "Address": "Queens"
+    },
+    {
+        "Name": "Sadie",
+        "Age": 35,
+        "Qualification": "PhD Doctrate",
+        "Address": "Brooklyn"
+    }
+]
